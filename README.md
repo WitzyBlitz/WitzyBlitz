@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WitzyBlitz
-- 👀 I’m interested in Javascript, Python, Typescript
+- 👀 I’m interested in Javascript, Python, Typescript, GoLang
 
 <!---
 WitzyBlitz/WitzyBlitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
